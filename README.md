@@ -1,4 +1,4 @@
-# Linux settings
+# Linux configuration
 
 To install clone files in home dir.
 
