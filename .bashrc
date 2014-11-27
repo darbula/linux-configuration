@@ -5,6 +5,7 @@ case $- in
       *) return;;
 esac
 
+PS1="\\u@\\h [\\w]# "
 
 # Note: PS1 and umask are already set in /etc/profile. You should not
 # need this unless you want different defaults for root.
