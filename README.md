@@ -19,11 +19,11 @@ Currently Included:
 
     make clean && make install TEXT=white
 
-Add line `include ~/.nano/syntax/ALL.nanorc` to `~/.nanorc`.
+Add line `include ~/.nano/syntax/ALL.nanorc` to `~/.nanorc` and comment out other highlighting includes.
 
 ### Global
 
     make clean && make install-global TEXT=white
 
-Add line `include /usr/local/share/nano/ALL.nanorc` to `/etc/nanorc`.
+Add line `include /usr/local/share/nano/ALL.nanorc` to `/etc/nanorc` and comment out other highlighting includes.
 
